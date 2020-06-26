@@ -3,7 +3,7 @@
 Créer son propre thème Halloween, un plugin de gestion d'admin et des widgets pour les boutons et formulaires
 avec ambiance sonore et visuel dérangeante
 
-HTML / CSS / Javascript / MySQL / phpMyAdmin / mariadb
+PHP / HTML / CSS / Javascript / MySQL / phpMyAdmin / mariadb
 
 *réalisé à 2 avec CriNav https://github.com/Crinav dans le cadre de la formation Web@cadémie by Epitech Marseille*
 
