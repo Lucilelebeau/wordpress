@@ -7,6 +7,7 @@ Créer son propre thème Halloween, un plugin de gestion d'admin et des widgets 
 # Fonctionnalités
 
 - Login
+- Page choix d'un quizz
 - Page Quizz avec un questionnaire
 - Admin : Création d'un quizz et CRUD des membres
 
@@ -21,7 +22,7 @@ Page Choix de question
 
 ---
 
-Page Quizz
+Page choix du quizz
 ![alt text](https://github.com/Lucilelebeau/wordpress/blob/master/wordpress_photo/Capture%20d%E2%80%99%C3%A9cran_2020-06-26_14-54-10.png)
 
 ---
