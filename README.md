@@ -13,6 +13,7 @@ HTML / CSS / Javascript / MySQL / phpMyAdmin / mariadb
 - Page choix d'un quizz
 - Page Quizz avec un questionnaire
 - Admin : Création d'un quizz et CRUD des membres
+- Enregistrement des datas en Bdd
 
 # Screenshot
 Page de login
