@@ -12,4 +12,4 @@ Créer son propre thème Halloween, un plugin de gestion d'admin et des widgets 
 
 # Screenshot
 
-![](https://github.com/Lucilelebeau/wordpress/blob/master/wordpress_photo/Capture%20d%E2%80%99%C3%A9cran_2020-06-26_14-49-52.png  | width=200)
+![alt text](https://github.com/Lucilelebeau/wordpress/blob/master/wordpress_photo/Capture%20d%E2%80%99%C3%A9cran_2020-06-26_14-49-52.png  | width=200)
